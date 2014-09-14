@@ -32,6 +32,11 @@
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	height: 32px;
+	background-color: #d0d0d0;
+	color: #505050;
+	text-align: center;
+	line-height: 32px;
 	clear: both;
 }
 
