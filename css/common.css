@@ -34,3 +34,65 @@
 	width: 100%;
 	clear: both;
 }
+
+.left-menu {
+	margin: 0;
+	padding: 0;
+}
+
+.left-menu li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: 40px;
+	height: 40px;
+}
+
+.left-menu li a {
+	display: block;
+	padding-left: 40px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	color: white;
+	text-decoration: none;
+	background: url('../img/left_menu.png') no-repeat;
+}
+
+.left-menu li a:visited {
+	display: block;
+	padding-left: 40px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	color: white;
+	text-decoration: none;
+	background: url('../img/left_menu.png') no-repeat;
+}
+
+.left-menu li a:active {
+	display: block;
+	padding-left: 40px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	color: white;
+	text-decoration: none;
+	background: url('../img/left_menu.png') no-repeat;
+}
+
+.left-menu li a:hover {
+	display: block;
+	padding-left: 40px;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
+	background: url('../img/left_menu_hover.png') no-repeat;
+}
