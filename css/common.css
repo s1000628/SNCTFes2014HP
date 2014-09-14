@@ -1,4 +1,8 @@
 
+body {
+	background-image: url('../img/bg.jpg');
+}
+
 #body {
 	margin: 0 auto;
 	padding: 0;
@@ -58,7 +62,7 @@
 	padding-left: 40px;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 160px;
 	height: 100%;
 	color: white;
 	text-decoration: none;
@@ -70,7 +74,7 @@
 	padding-left: 40px;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 160px;
 	height: 100%;
 	color: white;
 	text-decoration: none;
@@ -82,7 +86,7 @@
 	padding-left: 40px;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 160px;
 	height: 100%;
 	color: white;
 	text-decoration: none;
@@ -94,7 +98,7 @@
 	padding-left: 40px;
 	top: 0;
 	left: 0;
-	width: 100%;
+	width: 160px;
 	height: 100%;
 	color: blue;
 	text-decoration: none;
