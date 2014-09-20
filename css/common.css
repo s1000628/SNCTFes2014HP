@@ -135,3 +135,7 @@ h2 {
 	margin: 16px 8px;
 	padding: 0;
 }
+
+.content img {
+	max-width: 568px;
+}
