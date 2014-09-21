@@ -1,0 +1,36 @@
+
+.circle {
+	margin: 4px 0;
+	padding: 0;
+	clear: both;
+	border: solid 1px #0000a0;
+	overflow: auto;
+}
+
+.circle .flyer {
+	text-align: center;
+	margin: 4px;
+	width: 120px;
+	float: left;
+}
+
+.circle .flyer img {
+	display: block;
+	max-width: 120px;
+	max-height: 120px;
+	overflow: auto;
+}
+
+.circle .name-detail {
+	margin: 4px;
+	float: left;
+}
+
+.circle .name {
+	clear: both;
+	margin-bottom: 4px;
+	font-weight: bold;
+}
+
+.circle .detail {
+}
