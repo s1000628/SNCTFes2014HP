@@ -134,6 +134,7 @@ h2 {
 .content {
 	margin: 16px 8px;
 	padding: 0;
+	line-height: 1.2em;
 }
 
 .content img {
