@@ -7,3 +7,14 @@
 	font-weight: bold;
 	background-color: #d0d0ff;
 }
+
+.date {
+	list-style-type: none;
+	font-weight: bold;
+}
+
+.schedule {
+	font-weight: normal;
+	margin: 6px 0;
+	margin-left: 32px;
+}
