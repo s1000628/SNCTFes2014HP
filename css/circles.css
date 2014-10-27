@@ -6,18 +6,25 @@
 	border: solid 1px #0000a0;
 	overflow: auto;
 	width: 278px;
+	height: 266px;
 }
 
 .circle .flyer {
-	text-align: center;
 	margin: 4px;
 	width: 270px;
+	height: 162px;
+	text-align: center;
+}
+
+.circle .flyer a {
+	display: block;
+	width: 100%;
+	height: 100%;
 }
 
 .circle .flyer img {
 	max-width: 270px;
-	max-height: 202px;
-	text-align: center;
+	max-height: 162px;
 }
 
 .circle .name-detail {
